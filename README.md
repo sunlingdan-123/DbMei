@@ -8,7 +8,7 @@
 
 Datasets are available at :
 
- https://proceedings.ijcai.org/info
+https://proceedings.ijcai.org/info](https://www.aicrowd.com/organizers/amazon-search
 
 http://jmcauley.ucsd.edu/data/amazon/
 
